@@ -32,7 +32,7 @@ urllib3
 uvloop
 flask
 gunicorn==20.1.0
-pyrogram@dev
+pyrogram
 git+https://github.com/yt-dlp/yt-dlp
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
