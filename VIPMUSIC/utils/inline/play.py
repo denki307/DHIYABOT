@@ -83,15 +83,15 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Rubesh_official_18"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/tamil_tamilchat0"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Rubesh_official_18"
             ),
         ],
     ]
@@ -152,15 +152,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Rubesh_official_18"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/tamil_tamilchat0"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Rubesh_official_18"
             ),
         ],
     ]
@@ -415,15 +415,15 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Rubesh_official_18"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/tamil_tamilchat0"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Rubesh_official_18"
             ),
         ],
      ]
@@ -544,15 +544,15 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Rubesh_official_18"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/tamil_tamilchat0"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Rubesh_official_18"
             ),
         ],
     ]
@@ -617,15 +617,15 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Rubesh_official_18"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/tamil_tamilchat0"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Rubesh_official_18"
             ),
         ],
 ]
