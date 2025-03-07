@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/denki307/DENKIMUSIC",
+        "value": "https://github.com/denki307/DHIYABOT",
         "required": true
       },
       "UPSTREAM_BRANCH": {
