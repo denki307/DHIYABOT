@@ -52,7 +52,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/denki307/DENKIMUSIC",
+    "https://github.com/denki307/DHIYABOT",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -60,6 +60,10 @@ EXTRA_PLUGINS_REPO = getenv(
 EXTRA_PLUGINS_FOLDER = getenv("EXTRA_PLUGINS_FOLDER", "plugins")
 
 # Your folder name in your extra plugins repo where all plugins stored
+
+# Vars For API End Pont.
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://tubed.okflix.top') ## E.G https://yt.okflix.
+YT_API_KEY = "sparrow123"
 
 
 # Duration Limit for downloading Songs in MP3 or MP4 format from bot
