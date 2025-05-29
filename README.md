@@ -37,7 +37,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/denki307/DHIYABOT && cd DHIYABOT
    ```
 6. **Install Requirements**
    ```bash
