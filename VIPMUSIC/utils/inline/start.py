@@ -39,17 +39,17 @@ def private_panel(_):
         [
              InlineKeyboardButton(
                 text="❍ 𝐎ᴡɴᴇʀ ❍",
-                url=f"https://t.me/Rubesh_official_18",
+                url=f"https://t.me/DEV_RAJPUT_PRO",
             ),
             InlineKeyboardButton(
                 text="❍ 𝐀ʟʟ 𝐁ᴏᴛs ❍",
-                url=f"https://t.me/tamil_tamilchat0",
+                url=f"https://t.me/BulbulNews",
             )
         ],
         [
             InlineKeyboardButton(
                 text="❍ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ❍",
-                url=f"https://t.me/Rubesh_official_18",
+                url=f"https://t.me/DEV_RAJPUT_PRO",
             ),
         ],
     ]
